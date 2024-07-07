@@ -1,0 +1,1 @@
+This is a sample text file for hashing test we will do hashing using SHA1 MD5 and SHA256.

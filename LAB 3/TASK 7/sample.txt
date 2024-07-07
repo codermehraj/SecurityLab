@@ -1,0 +1,1 @@
+This is the sample file for task 3.7. Here we will see the impact&of changing a bit and how much effect it has in the value of the hash function output.

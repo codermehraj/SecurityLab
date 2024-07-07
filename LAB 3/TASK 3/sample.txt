@@ -1,0 +1,1 @@
+This is a sample text file for task 3.3 I am mehraj and I am going to test corruption of bits using this file.
